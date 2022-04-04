@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://balh55y.github.io/EatKano/"><img src="http://q1.qlogo.cn/g?b=qq&nk=2052905818&s=2" width="100" height="100" alt="EatKano"></a>
+  <a href="https://balh55y.github.io/EatKano/"><img src="http://q1.qlogo.cn/g?b=qq&nk=2052905818&s=5" width="100" height="100" alt="EatKano"></a>
 </p>
 <div align="center">
 
@@ -12,7 +12,7 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：吃掉小阿银
 
 [鹿乃b站](https://space.bilibili.com/316381099)
 |
