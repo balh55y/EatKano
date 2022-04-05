@@ -1,7 +1,7 @@
 <p align="center">
 <!--   <a href="https://balh55y.github.io/EatKano/"><img src="https://gchat.qpic.cn/gchatpic_new/0/0-0-92A9F6E4A2F62B8F4C54CD6F447374B2/0" width="100" height="100" alt="EatKano"></a> -->
- <a>![001](https://user-images.githubusercontent.com/85926883/161771778-7bf902f6-61b2-45a4-a958-a99d16c5cb81.gif)
- </a> 
+ ![001](https://user-images.githubusercontent.com/85926883/161771778-7bf902f6-61b2-45a4-a958-a99d16c5cb81.gif)
+
 
 </p>
 <div align="center">
