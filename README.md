@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://balh55y.github.io/EatKano/"><img src="https://gchat.qpic.cn/gchatpic_new/0/0-0-92A9F6E4A2F62B8F4C54CD6F447374B2/0" width="100" height="100" alt="EatKano"></a>
+<!--   <a href="https://balh55y.github.io/EatKano/"><img src="https://gchat.qpic.cn/gchatpic_new/0/0-0-92A9F6E4A2F62B8F4C54CD6F447374B2/0" width="100" height="100" alt="EatKano"></a> -->
+ <a> <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://gchat.qpic.cn/gchatpic_new/0/0-0-92A9F6E4A2F62B8F4C54CD6F447374B2/0"></a>
 </p>
 <div align="center">
 
