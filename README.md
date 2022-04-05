@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://balh55y.github.io/EatKano/"><img src="http://q1.qlogo.cn/g?b=qq&nk=2052905818&s=4" width="100" height="100" alt="EatKano"></a>
+  <a href="https://balh55y.github.io/EatKano/"><img src="https://gchat.qpic.cn/gchatpic_new/0/0-0-92A9F6E4A2F62B8F4C54CD6F447374B2/0" width="100" height="100" alt="EatKano"></a>
 </p>
 <div align="center">
 
